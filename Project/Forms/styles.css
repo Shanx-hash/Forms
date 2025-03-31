@@ -1,0 +1,94 @@
+body {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+label {
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.container {
+    width: 500px;
+    height: 590px;
+    border: 3px solid black;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+input {
+    padding: 10px 25px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.second-input {
+    margin-left: 10px;
+}
+
+.third-input {
+    width: 400px;
+    margin-top: 15px;
+}
+
+.fourth-input {
+    width: 400px;
+    margin-top: 15px;
+}
+
+.fifth-input {
+    width: 400px;
+    margin-top: 15px;
+}
+
+.sixth-input {
+    width: 400px;
+    margin-top: 5px;
+}
+
+.seventh-input {
+    border: 3px dotted lightgray;
+    text-transform: uppercase;
+    width: 400px;
+}
+
+.label {
+    transform: translateX(100px);
+}
+
+.radio-first {
+    margin-left: 20px;
+}
+
+.button {
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+button {
+    padding: 8px 100px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: large;
+    cursor: pointer;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.second-selection {
+    border: 3px dotted black;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.text {
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: 500px;
+    color: blue;
+}
